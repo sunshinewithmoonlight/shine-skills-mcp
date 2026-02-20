@@ -3,3 +3,4 @@ __pycache__/
 .venv/
 .venv312/
 *.pyc
+Skills/tmp/

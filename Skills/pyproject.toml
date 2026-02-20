@@ -1,0 +1,14 @@
+[project]
+name = "bilibili-watcher-runtime"
+version = "0.1.0"
+description = "Runtime environment for bilibili-watcher skill scripts."
+requires-python = ">=3.11"
+dependencies = [
+  "mlx-audio>=0.2.10",
+  "numpy>=2.4.2",
+  "scipy>=1.17.0",
+  "yt-dlp>=2025.1.0",
+]
+
+[tool.uv]
+package = false

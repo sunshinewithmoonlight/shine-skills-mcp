@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilibili Watcher"
+  short_description: "Download and transcribe Bilibili videos"
+  default_prompt: "Transcribe the requested Bilibili video URL into structured text output."
